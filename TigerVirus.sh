@@ -694,7 +694,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "MONSTER"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
