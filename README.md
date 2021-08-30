@@ -24,7 +24,7 @@ $ apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone https://github.com/Devil-Tigers/TigerVirus.git
+$ git clone https://github.com/Monsterlallu/TigerVirus.git
 
 $ cd TigerVirus
 
