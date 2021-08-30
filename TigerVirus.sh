@@ -3,12 +3,12 @@ clear
 echo " "
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m Welcome to [\e[1m\e[32mTIGER VIRUS\e[21m\e[31m V 2.3\e[33m]"
+echo -e "\e[33m Welcome to [\e[1m\e[32mMONSTER VIRUS\e[21m\e[31m V 2.3\e[33m]"
 echo " "
 sleep 1
 echo -e "\e[1m\e[33m============================================\e[21m"
 echo " "
-echo -e "\e[33m•••Script by \e[36mThe Devil Tigers\e[33m•••"
+echo -e "\e[33m•••Script by \e[36mThe MONSTER LALLU\e[33m•••"
 echo " "
 echo -e "\e[1m\e[33m••••••••••••••••••••••••••••••••••••••••••••\e[21m"
 echo " "
@@ -73,14 +73,14 @@ else
 
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
     echo " " 
-                    echo -e "\e[36m >>> STARTING TIGER VIRUS..."
+                    echo -e "\e[36m >>> STARTING MONSTER VIRUS..."
                     echo " "
                     sleep 2
                     
 clear
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "MONSTER"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
@@ -137,7 +137,7 @@ then
 clear   
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
 echo -e "\e[31m"
-figlet "Tiger"
+figlet "MONSTER"
 figlet "Virus 2.3"
 echo -e "\e[31m"
 echo -e "\e[1m\e[35m¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥¥\e[21m"
