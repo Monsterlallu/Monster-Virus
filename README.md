@@ -85,7 +85,7 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
 *script by MONSTER LALLU
 
-©[The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+©[The MONSTER LALLU](https://youtube.com/channel/UCn2lJjIrNXouId9m2u_vZrw)
 
 <h3>FOR EDUCATIONAL PURPOSE ONLY</h3>
 
