@@ -6,7 +6,7 @@
 
 <h4>Tool by <strong>The Devil Tigers</strong></h4>
 
-![Screenshot_20201107-163215~2_compress68](https://user-images.githubusercontent.com/69100349/98444803-c3659900-2139-11eb-892f-86a352437f56.jpg)
+![Screenshot_20201107-163215~2_compress68](https://www.linkpicture.com/q/ঔৣ✪ƘЄƦƛԼƛ⚔️ƇƳƁЄƦ⚔️ӇƛƇƘЄƦƧ✪࿐-20210831_124321.jpg)
 
 *For more details see my youtube channel 
 
