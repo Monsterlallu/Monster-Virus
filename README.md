@@ -43,7 +43,7 @@ copy and past on whatsapp and sent if Text
 
 
 
-![Screenshot_20210401-111957](https://user-images.githubusercontent.com/69100349/113250952-1570ac00-92df-11eb-846f-7e583aaa44a1.png)
+![Screenshot_20210401-111957](https://www.linkpicture.com/q/PicsArt_08-31-01.18.43.jpg)
 
 ![Capture 2020-11-07 20 29 57](https://user-images.githubusercontent.com/69100349/98444702-2571ce80-2139-11eb-82e3-50daac2c9e62.jpg)
 
