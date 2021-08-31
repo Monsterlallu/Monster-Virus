@@ -45,7 +45,7 @@ copy and past on whatsapp and sent if Text
 
 ![Screenshot_20210401-111957](https://www.linkpicture.com/q/PicsArt_08-31-01.18.43.jpg)
 
-![Capture 2020-11-07 20 29 57](https://www.linkpicture.com/q/PicsArt_08-31-01.18.43.jpg)
+![Capture 2020-11-07 20 29 57](https://www.linkpicture.com/q/PicsArt_08-31-01.29.43.jpg)
 
 ![Capture 2020-11-07 20 34 39](https://user-images.githubusercontent.com/69100349/98444733-4df9c880-2139-11eb-8c83-a928e5c2d0b8.jpg)
 
