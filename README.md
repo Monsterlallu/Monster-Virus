@@ -24,9 +24,9 @@ $ apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone https://github.com/Monsterlallu/TigerVirus.git
+$ git clone https://github.com/Monsterlallu/Monster-Virus.git
 
-$ cd TigerVirus
+$ cd Monster-Virus
 
 $ bash TigerVirus.sh
 
