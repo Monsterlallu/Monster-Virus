@@ -83,7 +83,7 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
 <h5>Testing</h5> 
 
-*script by THE DEVIL TIGERS
+*script by MONSTER LALLU
 
 ©[The Devil Tigers](https://www.youtube.com/c/thmalayalam)
 
