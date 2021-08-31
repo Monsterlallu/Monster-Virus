@@ -39,7 +39,7 @@ copy and past on whatsapp and sent if Text
 
 <h4>Screenshots </h4>
 
-![Screenshot_20210401-111946](https://user-images.githubusercontent.com/69100349/113250775-c591e500-92de-11eb-8442-ced8319793f4.png)
+![Screenshot_20210401-111946](https://www.linkpicture.com/q/Screenshot_2021-08-31-04-08-21-11_84d3000e3f4017145260f7618db1d683.jpg)
 
 
 
