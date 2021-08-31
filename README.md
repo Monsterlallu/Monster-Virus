@@ -28,7 +28,7 @@ $ git clone https://github.com/Monsterlallu/Monster-Virus.git
 
 $ cd Monster-Virus
 
-$ bash TigerVirus.sh
+$ bash Monster-Virus.sh
 
 After Installation the Virus Applications or text file
 Send To Victim If Application
