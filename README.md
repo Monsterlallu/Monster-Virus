@@ -49,7 +49,7 @@ copy and past on whatsapp and sent if Text
 
 ![Capture 2020-11-07 20 34 39](https://user-images.githubusercontent.com/69100349/98444733-4df9c880-2139-11eb-8c83-a928e5c2d0b8.jpg)
 
-![Capture 2020-11-07 20 35 37](https://user-images.githubusercontent.com/69100349/98444754-741f6880-2139-11eb-9a1e-8bcba51a76f8.jpg)
+![Capture 2020-11-07 20 35 37](bash Monster-Virus)
 
 <h3>2 options at First </h3>
 
